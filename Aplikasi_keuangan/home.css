@@ -1,0 +1,21 @@
+header{
+    padding-left: 20px;
+    height: 50px;
+    background-color: #f9ffca;
+    display: flex;
+    align-items: center;
+}
+.headline{
+    width: 80%;
+}
+body{
+    background-color: #cad1ff;
+    
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 250px;
+    font-size: 30px;
+}
